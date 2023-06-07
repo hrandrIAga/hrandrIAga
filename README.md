@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrandrIAga and I am an engineer student
-- 👀 I’m interested in data science and AI (mainly econometrics and machine learning)
-- 📫 How to reach me : haga.randrianaly@gmail.com or discord 'hrandrIAga#0514'
+- 👀 I’m interested in data science and networks
+- 📫 How to reach me : haga.randrianaly@gmail.com
 
 <!---
 hrandrIAga/hrandrIAga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
