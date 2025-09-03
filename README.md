@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrandrIAga and I am an data science graduate from [Institut Polytechnique de Paris](https://www.ip-paris.fr/)
+- 👋 Hi, I’m @hrandrIAga and I am a data science graduate from [Institut Polytechnique de Paris](https://www.ip-paris.fr/)
 - 👀 I’m interested in Data Science, Networks & Economics
 - 📫 How to reach me : haga.randrianaly@gmail.com
 
